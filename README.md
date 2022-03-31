@@ -28,12 +28,4 @@ Item - The sub schema of Collection and frame for the items inside of a collecti
 ## MVC architecture (BackEnd)
 ![2022-03-22 (2)](https://user-images.githubusercontent.com/97875763/160957415-b3bd529e-2af5-4285-933b-5a99356fc8d4.png)
 
-## MVP Stories
-
-- As a user, I would like to view my collection inventory.
-- As a user, I would like to add to or delete my collections.
-- As a user, I would like to update or make changes to my collection.
-- As a user, I would like to add to the amount inside each collection.
-- As a user, I would like to make a new collection.
-
 
